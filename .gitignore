@@ -220,4 +220,7 @@ __marimo__/
 # Results and logs
 results/
 results_v2/
+results_v3/
+results_base/
+results_lora/
 logs/
